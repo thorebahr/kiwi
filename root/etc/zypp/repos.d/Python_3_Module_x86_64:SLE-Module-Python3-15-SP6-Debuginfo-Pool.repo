@@ -1,0 +1,6 @@
+[Python_3_Module_x86_64:SLE-Module-Python3-15-SP6-Debuginfo-Pool]
+name=SLE-Module-Python3-15-SP6-Debuginfo-Pool
+enabled=0
+autorefresh=0
+baseurl=http://10.144.109.14/repo/SUSE/Products/SLE-Module-Python3/15-SP6/x86_64/product_debug/
+service=Python_3_Module_x86_64
