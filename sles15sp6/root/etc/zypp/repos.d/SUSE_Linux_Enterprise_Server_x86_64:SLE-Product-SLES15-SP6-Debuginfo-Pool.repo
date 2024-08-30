@@ -1,6 +1,0 @@
-[SUSE_Linux_Enterprise_Server_x86_64:SLE-Product-SLES15-SP6-Debuginfo-Pool]
-name=SLE-Product-SLES15-SP6-Debuginfo-Pool
-enabled=0
-autorefresh=0
-baseurl=http://10.144.109.14/repo/SUSE/Products/SLE-Product-SLES/15-SP6/x86_64/product_debug/
-service=SUSE_Linux_Enterprise_Server_x86_64

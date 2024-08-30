@@ -1,6 +1,0 @@
-[Server_Applications_Module_x86_64:SLE-Module-Server-Applications15-SP6-Updates]
-name=SLE-Module-Server-Applications15-SP6-Updates
-enabled=1
-autorefresh=1
-baseurl=http://10.144.109.14/repo/SUSE/Updates/SLE-Module-Server-Applications/15-SP6/x86_64/update/
-service=Server_Applications_Module_x86_64

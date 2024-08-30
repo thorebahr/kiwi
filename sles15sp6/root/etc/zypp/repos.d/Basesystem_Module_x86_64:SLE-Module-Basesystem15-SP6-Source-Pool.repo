@@ -1,6 +1,0 @@
-[Basesystem_Module_x86_64:SLE-Module-Basesystem15-SP6-Source-Pool]
-name=SLE-Module-Basesystem15-SP6-Source-Pool
-enabled=0
-autorefresh=0
-baseurl=http://10.144.109.14/repo/SUSE/Products/SLE-Module-Basesystem/15-SP6/x86_64/product_source/
-service=Basesystem_Module_x86_64

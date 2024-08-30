@@ -1,6 +1,0 @@
-[Server_Applications_Module_x86_64:SLE-Module-Server-Applications15-SP6-Pool]
-name=SLE-Module-Server-Applications15-SP6-Pool
-enabled=1
-autorefresh=0
-baseurl=http://10.144.109.14/repo/SUSE/Products/SLE-Module-Server-Applications/15-SP6/x86_64/product/
-service=Server_Applications_Module_x86_64
