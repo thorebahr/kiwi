@@ -60,7 +60,7 @@
     </preferences>
 
     <preferences profiles="kvm">
-        <version>15.5.0</version>
+        <version>15.6.0</version>
         <packagemanager>zypper</packagemanager>
         <bootsplash-theme>SLE</bootsplash-theme>
         <bootloader-theme>SLE</bootloader-theme>
@@ -101,7 +101,7 @@
     </preferences>
 
     <preferences profiles="VMware">
-        <version>15.5.0</version>
+        <version>15.6.0</version>
         <packagemanager>zypper</packagemanager>
         <bootsplash-theme>SLE</bootsplash-theme>
         <bootloader-theme>SLE</bootloader-theme>
@@ -173,7 +173,7 @@
     </preferences>
 
     <preferences profiles="MS-HyperV">
-        <version>15.5.0</version>
+        <version>15.6.0</version>
         <packagemanager>zypper</packagemanager>
         <bootsplash-theme>SLE</bootsplash-theme>
         <bootloader-theme>SLE</bootloader-theme>
