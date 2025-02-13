@@ -69,7 +69,7 @@ suseImportBuildKey
 # Enable sshd
 #--------------------------------------
 chkconfig sshd on
-chkconfig salt-minion on
+chkconfig salt-minion off
 
 if [ -e /etc/cloud/cloud.cfg ]; then
     systemctl enable cloud-init-local
